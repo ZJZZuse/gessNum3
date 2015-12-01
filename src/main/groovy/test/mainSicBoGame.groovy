@@ -1,3 +1,5 @@
+package test
+
 import static myLib.MyCommonToolsZ.*
 
 /**

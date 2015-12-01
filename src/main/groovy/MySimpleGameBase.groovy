@@ -13,7 +13,7 @@ abstract class MySimpleGameBase {
      * 游戏结果
      */
     static enum Result {
-        WIN(1), LOSE(2), DRAW(3),NO_ENOUGH_SCORE(4)
+        WIN(1), LOSE(2), DRAW(3),NO_ENOUGH_SCORE(4),CONTINUE(5)
 
         def value = 0
 

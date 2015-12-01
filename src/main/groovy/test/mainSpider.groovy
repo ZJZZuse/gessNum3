@@ -1,3 +1,5 @@
+package test
+
 import org.jsoup.Jsoup
 
 import java.util.concurrent.ArrayBlockingQueue
@@ -47,7 +49,7 @@ def acqCertainItem(mainItems) {
 
 //tp.execute({
 //
-//    main(mainItems)
+//    test.main(mainItems)
 //
 //})
 //
