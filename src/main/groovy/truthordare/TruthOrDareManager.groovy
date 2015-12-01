@@ -27,7 +27,7 @@ class TruthOrDareManager {
 
     TruthOrDareManager() {
 
-        initData()
+//        initData()
 
     }
 
@@ -35,8 +35,25 @@ class TruthOrDareManager {
      * 可以重置数组复用对象
      * @return
      */
-    private Iterable initData(truthOrDares = this.truthOrDares) {
+    def initData(truthOrDaresT = this.truthOrDares, truths = this.truths, dares = this.dares) {
 
+        if (truthOrDaresT.size() != 0) {
+
+            initDataMainsToSub(truthOrDaresT)
+
+        }else {
+
+            //todo another init
+
+        }
+
+
+
+
+        shuffle()
+    }
+
+    private Object initDataMainsToSub(truthOrDares) {
         truthOrDares.each {
 
             if (it.type == TruthOrDare.Type.DARE) {
@@ -50,8 +67,6 @@ class TruthOrDareManager {
             }
 
         }
-
-        shuffle()
     }
 
     private void shuffle() {
