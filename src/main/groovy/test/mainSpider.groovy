@@ -7,7 +7,7 @@ import java.util.concurrent.BlockingDeque
 import java.util.concurrent.Executors
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/18.
+ * Created on 2015/11/18.
  */
 
 mainItems = new ArrayBlockingQueue<String>(3)

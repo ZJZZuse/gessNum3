@@ -3,7 +3,7 @@ import myLib.MyNoRepeatRandomInt
 import org.junit.Test
 
 /**
- * Created by wb-zhangjinzhong on 2015/12/1.
+ * Created on 2015/12/1.
  */
 class TestRand1 {
 

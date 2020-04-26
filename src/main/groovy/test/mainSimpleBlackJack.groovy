@@ -3,7 +3,7 @@ package test
 import myLib.MyCommonToolsZ
 
 /**
- * Created by wb-zhangjinzhong on 2015/12/1.
+ * Created on 2015/12/1.
  */
 
 

@@ -1,7 +1,7 @@
 import myLib.MyCommonToolsZ
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/24.
+ * Created on 2015/11/24.
  */
 class SicBoGame extends MySimpleGameBase {
 

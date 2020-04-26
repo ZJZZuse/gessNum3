@@ -3,7 +3,7 @@ package myLib
 import java.util.concurrent.ArrayBlockingQueue
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/18.
+ * Created on 2015/11/18.
  */
 class MySpiderBase {
 

@@ -3,7 +3,7 @@ import myLib.MyCommonToolsZ
 import java.text.SimpleDateFormat
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/23.
+ * Created on 2015/11/23.
  *
  * 构造，play即可
  *

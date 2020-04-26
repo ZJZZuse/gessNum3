@@ -5,7 +5,7 @@ import java.util.concurrent.Executors
 import java.util.concurrent.atomic.AtomicBoolean
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/18.
+ * Created on 2015/11/18.
  */
 class MySpiderUrl implements Iterable {
 

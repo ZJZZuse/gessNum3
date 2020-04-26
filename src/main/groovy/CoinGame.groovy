@@ -1,7 +1,7 @@
 import myLib.MyCommonToolsZ
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/23.
+ * Created on 2015/11/23.
  */
 class CoinGame extends MySimpleGameBase {
 

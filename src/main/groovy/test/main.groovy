@@ -3,7 +3,7 @@ package test
 import myLib.MyCommonToolsZ
 
 /**
- * Created by wb-zhangjinzhong on 2015/11/17.
+ * Created on 2015/11/17.
  */
 
 game = new NumGuesser()
