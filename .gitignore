@@ -48,3 +48,4 @@ Temporary Items
 /gradle/*/*.jar
 
 /.idea/
+/gradle/wrapper/gradle-wrapper.jar
